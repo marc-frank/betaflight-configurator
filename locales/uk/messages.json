@@ -2146,6 +2146,9 @@
     "receiverThrottleExpo": {
         "message": "Експоненційність тяги"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "Поріг мін. значення стіка"
     },

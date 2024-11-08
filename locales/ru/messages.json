@@ -2131,6 +2131,9 @@
     "receiverThrottleExpo": {
         "message": "Газ, экспонента"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "Порог \"Stick Low\""
     },

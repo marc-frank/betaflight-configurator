@@ -2152,6 +2152,9 @@
     "receiverThrottleExpo": {
         "message": "スロットル Expo"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "スティック 低"
     },

@@ -2152,6 +2152,9 @@
     "receiverThrottleExpo": {
         "message": "EXPO do Acelerador"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "Limite 'Stick baixo'"
     },

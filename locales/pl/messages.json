@@ -2156,6 +2156,9 @@
     "receiverThrottleExpo": {
         "message": "Przepustnica EXPO"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "Minimalna Pozycja Drążka"
     },

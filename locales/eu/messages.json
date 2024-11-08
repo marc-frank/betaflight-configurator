@@ -1456,6 +1456,9 @@
     "receiverThrottleExpo": {
         "message": "Azeleragailu EXPO"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "'Stick baxua' atalasea"
     },

@@ -2115,6 +2115,9 @@
     "receiverThrottleExpo": {
         "message": "Gas EXPO"
     },
+    "receiverThrottleHover": {
+        "message": "Hover Point"
+    },
     "receiverStickMin": {
         "message": "'Pind Lav'-tærskel"
     },
