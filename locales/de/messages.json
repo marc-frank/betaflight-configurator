@@ -2104,9 +2104,6 @@
     "receiverThrottleExpo": {
         "message": "Gas Expo"
     },
-    "receiverThrottleHover": {
-        "message": "Hover Point"
-    },
     "receiverStickMin": {
         "message": "\"Niedriger Stickwert\" Schwellwert"
     },

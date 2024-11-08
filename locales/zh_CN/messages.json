@@ -1722,9 +1722,6 @@
     "receiverThrottleExpo": {
         "message": "油门 Expo"
     },
-    "receiverThrottleHover": {
-        "message": "Hover Point"
-    },
     "receiverStickMin": {
         "message": "'摇杆低位' 阈值"
     },

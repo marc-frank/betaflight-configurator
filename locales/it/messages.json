@@ -2152,9 +2152,6 @@
     "receiverThrottleExpo": {
         "message": "Esponenziale Gas"
     },
-    "receiverThrottleHover": {
-        "message": "Hover Point"
-    },
     "receiverStickMin": {
         "message": "Soglia \"Stick Giù\""
     },

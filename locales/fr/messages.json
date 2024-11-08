@@ -1832,9 +1832,6 @@
     "receiverThrottleExpo": {
         "message": "Expo gaz"
     },
-    "receiverThrottleHover": {
-        "message": "Hover Point"
-    },
     "receiverStickMin": {
         "message": "'Manche en bas'"
     },

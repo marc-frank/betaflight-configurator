@@ -1525,9 +1525,6 @@
     "receiverThrottleExpo": {
         "message": "Throttle EXPO"
     },
-    "receiverThrottleHover": {
-        "message": "Hover Point"
-    },
     "receiverStickMin": {
         "message": "'Stick Laag' drempel"
     },

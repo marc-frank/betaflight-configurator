@@ -2152,9 +2152,6 @@
     "receiverThrottleExpo": {
         "message": "Acelerador EXPO"
     },
-    "receiverThrottleHover": {
-        "message": "Hover Point"
-    },
     "receiverStickMin": {
         "message": "Umbral 'Palanca Baja'"
     },
