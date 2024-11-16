@@ -1462,11 +1462,11 @@ pid_tuning.initialize = function (callback) {
             // math magic by englishman
             const topY = canvasHeight * (1 - throttleScale);
             const midX = canvasWidth * mid;
-            const midXl = midX * 0.5;
-            const midXr = (((canvasWidth - midX) * 0.5) + midX);
+            const midXl = midX * (1 - expo);
+            const midXr = ((canvasWidth - midX) * expo) + midX;
             const midY = (canvasHeight - throttleScale) * (1 - hover);
-            const midYl = (canvasHeight - ((canvasHeight - midY) * 0.5 * (expo + 1)));
-            const midYr = (topY + ((midY - topY) * 0.5 *(expo + 1)));
+            const midYl = midY;
+            const midYr = midY;
 
             let thrPercent = (FC.RC.channels[3] - 1000) / 1000,
                 thrpos = thrPercent <= mid
