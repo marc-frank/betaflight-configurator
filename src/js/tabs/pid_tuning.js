@@ -113,7 +113,7 @@ pid_tuning.initialize = function (callback) {
 
         $('.throttle input[name="mid"]').val(FC.RC_TUNING.throttle_MID.toFixed(2));
         $('.throttle input[name="expo"]').val(FC.RC_TUNING.throttle_EXPO.toFixed(2));
-        $('.throttle input[name="hover"]').val(FC.throttle_HOVER.toFixed(2));
+        $('.throttle input[name="hover"]').val(FC.RC_TUNING.throttle_HOVER.toFixed(2));
 
         if (semver.gte(FC.CONFIG.apiVersion, API_VERSION_1_45)) {
             // Moved tpa to profile
